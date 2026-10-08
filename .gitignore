@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Generated data and media (never committed)
+queue.json
+_archive/
+projects/
+render/
+out/
+*.mp4
+*.mov
+*.wav
+*.mp3
+
+# Dependencies and caches
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store

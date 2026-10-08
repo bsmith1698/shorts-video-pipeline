@@ -1,0 +1,18 @@
+{
+  "audioSrc": "audio/mission_audio.wav",
+  "wordTimingsKey": "mission_audio",
+  "musicBedSrc": null,
+  "musicBedVolume": 0.15,
+  "footage": [
+    "footage/clip_a.mp4",
+    "footage/clip_b.mp4",
+    "footage/clip_c.mp4"
+  ],
+  "hook": [
+    { "text": "PLACEHOLDER — ", "color": "#FFFFFF" },
+    { "text": "subject", "color": "#4DD9E8" },
+    { "text": " did the thing", "color": "#FFD400" },
+    { "text": " and it went wrong", "color": "#FF5C5C" },
+    { "text": ".", "color": "#FFFFFF" }
+  ]
+}
